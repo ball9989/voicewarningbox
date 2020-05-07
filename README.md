@@ -10,10 +10,7 @@
 
 # Website:
   https://ball9989.github.io/voicewarningboxx/website/dist/index.html
--ที่มา
--อุปกรณ์ที่ต้องใช้
--คลิปวีดีโอสาธิตการทำงาน
--Source code
+
 
 
 
