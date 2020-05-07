@@ -1,23 +1,27 @@
-# voicewarningbox
-testtestst
-testteststtesttestst
+# Voice Warning Box
+#Project Computer Programming
+มีที่มาเริ่มต้นจากการที่มีคนเสียงดังในห้องสมุด ทำให้เกิดไอเดียสัญญาณเตือนโดยรับเสียงผ่านเซนเซอร์
 
-testteststtestteststtesttestst
+# Group Member:
+1. นายกฤษกร อำนาจสถิตย์ 62070006
+2. นายญาณวุฒิ ศรีทอง 62070051
+3. นายณัฐพงษ์ แพทย์กระโทก 62070063
 
-testteststtestteststtesttestst
-testtestst
-testtestst
-testtestst
-testteststtesttestst
-v
-testteststtestteststtesttestst
-testtestst
 
-v
-testtestst
-testteststtestteststtesttestst
-testtestst
-testtestst
-testteststtesttestst
-testtestst
-testteststtesttestst
+# Website:
+    https://ball9989.github.io/voicewarningboxx/website/dist/index.html
+    -ที่มา
+    -อุปกรณ์ที่ต้องใช้
+    -คลิปวีดีโอสาธิตการทำงาน
+    -Source code
+
+
+
+# Video link
+- https://youtu.be/g3WydCwx7uM
+
+
+# Poster
+- link: https://drive.google.com/file/d/1c_dtT80RI6af8GvbJ2cFcRMPqHxgxxDg/view?usp=sharing
+
+[![poscpmpro-A42.png](https://i.imgur.com/A9gbGpq.jpg)](https://i.imgur.com/A9gbGpq)
