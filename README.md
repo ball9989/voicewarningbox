@@ -20,5 +20,6 @@
 
 # Poster
 - link: https://drive.google.com/file/d/1c_dtT80RI6af8GvbJ2cFcRMPqHxgxxDg/view?usp=sharing
+- file: https://drive.google.com/drive/folders/1VNVGsgnLHa2QoCinoOxJLJlq4lM5dCe5?usp=sharing
 
 [![poscpmpro-A42.png](https://i.imgur.com/A9gbGpq.jpg)](https://i.imgur.com/A9gbGpq)
